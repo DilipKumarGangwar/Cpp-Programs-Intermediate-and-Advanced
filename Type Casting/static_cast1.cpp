@@ -1,3 +1,5 @@
+/* Static cast is a cast operator which says that type checking will be done at Compile time*/
+
 #include<iostream> 
 using namespace std; 
 
